@@ -1,0 +1,4 @@
+inference
+flask
+opencv-python
+supervision
